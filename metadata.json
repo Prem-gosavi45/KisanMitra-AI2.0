@@ -1,0 +1,8 @@
+{
+  "name": " KisanMitra AI2.0",
+  "description": "KisanMitra AI helps farmers understand their crop, market and profitability before making a selling decision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

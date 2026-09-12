@@ -1,0 +1,21 @@
+Printing with useUnmergedTree = 'false'
+Node #1 at (l=0.0, t=0.0, r=320.0, b=470.0)px
+ |-Node #52 at (l=172.0, t=102.0, r=185.0, b=138.0)px
+ | Text = '[KisanMitra AI]'
+ | Actions = [SetTextSubstitution, ShowTextSubstitution, ClearTextSubstitution, GetTextLayoutResult]
+ |-Node #56 at (l=24.0, t=162.0, r=42.0, b=198.0)px
+ | Text = '[CROP INTELLIGENCE]'
+ | Actions = [SetTextSubstitution, ShowTextSubstitution, ClearTextSubstitution, GetTextLayoutResult]
+ |-Node #58 at (l=24.0, t=210.0, r=40.0, b=262.0)px
+ | Text = '[Know your crop.]'
+ | Actions = [SetTextSubstitution, ShowTextSubstitution, ClearTextSubstitution, GetTextLayoutResult]
+ |-Node #60 at (l=24.0, t=278.0, r=71.0, b=338.0)px
+ | Text = '[Track crop health, spoilage risk and remaining
+shelf life with AI-powered insights.]'
+ | Actions = [SetTextSubstitution, ShowTextSubstitution, ClearTextSubstitution, GetTextLayoutResult]
+ |-Node #67 at (l=215.0, t=374.0, r=296.0, b=434.0)px
+   Focused = 'false'
+   Role = 'Button'
+   Text = '[Next]'
+   Actions = [OnClick, RequestFocus, SetTextSubstitution, ShowTextSubstitution, ClearTextSubstitution, GetTextLayoutResult]
+   MergeDescendants = 'true'
